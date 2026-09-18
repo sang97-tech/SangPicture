@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>SangPicture</title>
+  <rect width="64" height="64" rx="16" fill="#0c7bea"/>
+  <path d="M16 18.5A5.5 5.5 0 0 1 21.5 13H27v10h16.5A5.5 5.5 0 0 1 49 28.5V45a5.5 5.5 0 0 1-5.5 5.5H22A6 6 0 0 1 16 44.5V18.5Z" fill="#0870d8"/>
+  <path d="M24 14h9v8H24z" fill="#fff"/>
+  <path d="m22 42 9-10 8 8 6-7 7 9v4.5A3.5 3.5 0 0 1 48.5 50h-23A3.5 3.5 0 0 1 22 46.5V42Z" fill="#fff"/>
+  <circle cx="42" cy="28" r="4.5" fill="#ffd33d"/>
+</svg>

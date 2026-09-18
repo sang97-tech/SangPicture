@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">SangPicture 화면 placeholder</title>
+  <desc id="desc">프로그램 화면 캡처를 넣을 수 있는 자리입니다.</desc>
+  <rect width="960" height="600" rx="22" fill="#e8f3ff"/>
+  <rect x="38" y="38" width="884" height="524" rx="16" fill="#fff" stroke="#c4ddf3" stroke-width="2"/>
+  <rect x="38" y="38" width="884" height="56" rx="16" fill="#f5faff"/>
+  <path d="M38 78h884" stroke="#dbeaf7" stroke-width="2"/>
+  <circle cx="68" cy="66" r="7" fill="#bdd4e9"/>
+  <circle cx="93" cy="66" r="7" fill="#bdd4e9"/>
+  <circle cx="118" cy="66" r="7" fill="#bdd4e9"/>
+  <rect x="72" y="128" width="172" height="384" rx="12" fill="#f3f8fd"/>
+  <rect x="275" y="128" width="580" height="384" rx="12" fill="#edf6ff"/>
+  <rect x="306" y="159" width="518" height="320" rx="10" fill="#d7eafa"/>
+  <path d="m350 432 128-139 88 92 76-76 118 123H350Z" fill="#fff"/>
+  <circle cx="694" cy="252" r="32" fill="#ffd33d"/>
+  <rect x="98" y="156" width="104" height="10" rx="5" fill="#c3d9ec"/>
+  <rect x="98" y="190" width="128" height="54" rx="9" fill="#cfe5f8"/>
+  <rect x="98" y="260" width="128" height="54" rx="9" fill="#cfe5f8"/>
+  <rect x="98" y="330" width="128" height="54" rx="9" fill="#cfe5f8"/>
+  <rect x="405" y="520" width="230" height="14" rx="7" fill="#9fc8eb"/>
+  <text x="480" y="548" fill="#4a7297" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle">여기에 실제 프로그램 화면을 넣어주세요</text>
+</svg>

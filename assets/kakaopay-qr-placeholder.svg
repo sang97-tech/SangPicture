@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">카카오페이 QR placeholder</title>
+  <desc id="desc">실제 카카오페이 송금 QR 이미지를 넣을 수 있는 자리입니다.</desc>
+  <rect width="360" height="360" rx="24" fill="#fff"/>
+  <g fill="#17324d">
+    <path d="M42 42h92v92H42zM58 58v60h60V58H58Zm16 16h28v28H74V74Z"/>
+    <path d="M226 42h92v92h-92zM242 58v60h60V58h-60Zm16 16h28v28h-28V74Z"/>
+    <path d="M42 226h92v92H42zM58 242v60h60v-60H58Zm16 16h28v28H74v-28Z"/>
+    <path d="M174 42h28v28h-28zM174 86h28v28h-28zM174 130h28v28h-28zM218 174h28v28h-28zM262 174h28v28h-28zM306 174h12v28h-12zM174 218h28v28h-28zM218 218h28v28h-28zM262 218h28v28h-28zM306 218h12v28h-12zM174 262h28v28h-28zM218 262h28v28h-28zM262 262h28v28h-28zM306 262h12v28h-12zM174 306h28v12h-28zM218 306h28v12h-28zM262 306h56v12h-56z"/>
+  </g>
+  <rect x="144" y="144" width="72" height="72" rx="12" fill="#ffe94a" stroke="#17324d" stroke-width="6"/>
+  <text x="180" y="190" fill="#17324d" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">QR</text>
+</svg>
