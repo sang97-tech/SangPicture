@@ -26,6 +26,8 @@ SangPicture-Website/
 ├─ script.js
 └─ assets/
    ├─ favicon.svg
+   ├─ creator-photo.jpg
+   ├─ kakaopay-logo.png
    ├─ sangpicture-icon.png
    ├─ screenshot-placeholder.svg
    └─ kakaopay-qr-placeholder.svg

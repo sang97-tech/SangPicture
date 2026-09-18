@@ -9,7 +9,7 @@ const SITE_CONFIG = {
   hashUrl: "https://github.com/your-account/SangPicture/releases/latest",
   changesUrl: "https://github.com/your-account/SangPicture/releases/latest",
   paypalUrl: "https://www.paypal.me/your-paypal-id",
-  kakaoPayUrl: "#",
+  kakaoPayUrl: "https://qr.kakaopay.com/FJ5HeMfU4",
   kakaoQrImage: "assets/kakaopay-qr.png",
   kakaoRecipient: "이상준",
   officialDownloadUrl: "https://github.com/your-account/SangPicture/releases/latest",

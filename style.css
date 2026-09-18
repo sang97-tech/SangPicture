@@ -575,6 +575,17 @@ button:focus-visible {
   font-size: clamp(2.4rem, 5vw, 4.2rem);
 }
 
+.creator-photo {
+  width: min(100%, 180px);
+  height: auto;
+  margin: 1.2rem 0 1.1rem;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background: var(--paper);
+  box-shadow: 0 14px 30px rgba(6, 63, 116, 0.12);
+}
+
 .creator-motive {
   max-width: 380px;
   margin: 1.5rem 0 0;
@@ -601,8 +612,8 @@ button:focus-visible {
 
 .bio-list {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.85rem 1.5rem;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
   margin: 1.4rem 0 0;
   padding: 0;
   list-style: none;
@@ -660,7 +671,8 @@ button:focus-visible {
   display: grid;
   place-items: center;
   padding: 0.85rem;
-  background: var(--paper);
+  background: #ffe500;
+  border: 1px solid #e7cc00;
   border-radius: var(--radius-md);
 }
 
@@ -677,13 +689,11 @@ button:focus-visible {
   word-break: keep-all;
 }
 
-.kakao-label {
-  margin: 0;
-  color: #2d9c74;
-  font-size: 0.76rem;
-  font-weight: 850;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+.kakaopay-logo {
+  display: block;
+  width: min(100%, 128px);
+  height: auto;
+  margin: 0 0 0.45rem;
 }
 
 .recipient-label {
