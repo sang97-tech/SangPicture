@@ -11,7 +11,7 @@ const SITE_CONFIG = {
   paypalUrl: "https://www.paypal.me/your-paypal-id",
   kakaoPayUrl: "#",
   kakaoQrImage: "assets/kakaopay-qr.png",
-  kakaoRecipient: "수취인 이름을 입력해주세요",
+  kakaoRecipient: "이상준",
   officialDownloadUrl: "https://github.com/your-account/SangPicture/releases/latest",
   contactEmail: "your-email@example.com",
   privacyUrl: "#",
