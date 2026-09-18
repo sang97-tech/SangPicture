@@ -10,7 +10,7 @@ const SITE_CONFIG = {
   changesUrl: "https://github.com/your-account/SangPicture/releases/latest",
   paypalUrl: "https://www.paypal.me/your-paypal-id",
   kakaoPayUrl: "#",
-  kakaoQrImage: "assets/kakaopay-qr-placeholder.svg",
+  kakaoQrImage: "assets/kakaopay-qr.png",
   kakaoRecipient: "수취인 이름을 입력해주세요",
   officialDownloadUrl: "https://github.com/your-account/SangPicture/releases/latest",
   contactEmail: "your-email@example.com",
