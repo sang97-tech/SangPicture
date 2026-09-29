@@ -4,7 +4,7 @@
 */
 const SITE_CONFIG = {
   latestVersion: "v1.12",
-  downloadUrl: "https://github.com/sang97-tech/SangPic-release/releases/latest/download/PhotoEditorSetup_1.22.exe",
+  downloadUrl: "https://github.com/sang97-tech/SangPic-release/releases/latest",
   releaseUrl: "https://github.com/sang97-tech/SangPic-release/releases",
   hashUrl: "https://github.com/sang97-tech/SangPic-release/releases/latest",
   changesUrl: "https://github.com/sang97-tech/SangPic-release/releases/latest",
@@ -12,7 +12,7 @@ const SITE_CONFIG = {
   kakaoPayUrl: "https://qr.kakaopay.com/FJ5HeMfU4",
   kakaoQrImage: "assets/kakaopay-qr.png",
   kakaoRecipient: "이상준",
-  officialDownloadUrl: "https://github.com/sang97-tech/SangPic-release/releases/latest/download/PhotoEditorSetup_1.22.exe",
+  officialDownloadUrl: "https://github.com/sang97-tech/SangPic-release/releases/latest",
   contactEmail: "your-email@example.com",
   privacyUrl: "#",
   licenseUrl: "#",
