@@ -3,7 +3,7 @@
   Replace the placeholder values below when the official addresses are ready.
 */
 const SITE_CONFIG = {
-  latestVersion: "v1.12",
+  latestVersion: "v1.41",
   downloadUrl: "https://github.com/sang97-tech/SangPic-release/releases/latest",
   releaseUrl: "https://github.com/sang97-tech/SangPic-release/releases",
   hashUrl: "https://github.com/sang97-tech/SangPic-release/releases/latest",
